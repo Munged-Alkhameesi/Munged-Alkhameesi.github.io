@@ -20,7 +20,7 @@ github_username:  munged-alkhameesi
 # facebook_username: jekyll
 # flickr_username: jekyll
 #instagram_username: jekyll
-linkedin_username: munged al-khameesi
+linkedin_username: munged-al-khameesi-839574281
 # xing_username: jekyll
 # pinterest_username: jekyll
 #youtube_username: jekyll
@@ -69,18 +69,18 @@ content:
           
         description: | # this will include new lines to allow paragraphs
           A Restaurant reservation system built with c# MVC ef core and SQL as database
- - layout: top-middle
-        title: Restaurant reservation system
-        link: https://github.com/Munged-Alkhameesi/ReservationSystem
-        # link_text: Project Website
-        additional_links:
-          - title:  TBA
-            icon: fab fa-github
-            url: TBA
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
+     - layout: top-middle
+            title: Restaurant reservation system
+            link: https://github.com/Munged-Alkhameesi/ReservationSystem
+            # link_text: Project Website
+            additional_links:
+              - title:  TBA
+                icon: fab fa-github
+                url: TBA
+              # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+              #   icon: fab fa-github
+              #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+            quote: >
           
         description: | # this will include new lines to allow paragraphs
           A Restaurant reservation system built with c# MVC ef core and SQL as database
