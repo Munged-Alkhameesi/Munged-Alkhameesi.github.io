@@ -5,7 +5,7 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
+name: Munged al-khameesi
 title: Student/Junior Programmer Developer
 email: Munged.alkhameesi@gmail.com
 website: www.github.com/sproogen/resume-theme
@@ -55,8 +55,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: TBA
+        title: Restaurant reservation system
+        link: https://github.com/Munged-Alkhameesi/ReservationSystem
         # link_text: Project Website
         additional_links:
           - title:  TBA
@@ -66,9 +66,24 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          TBA
+          
         description: | # this will include new lines to allow paragraphs
-          TBA
+          A Restaurant reservation system built with c# MVC ef core and SQL as database
+ - layout: top-middle
+        title: Restaurant reservation system
+        link: https://github.com/Munged-Alkhameesi/ReservationSystem
+        # link_text: Project Website
+        additional_links:
+          - title:  TBA
+            icon: fab fa-github
+            url: TBA
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+          A Restaurant reservation system built with c# MVC ef core and SQL as database
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -104,7 +119,7 @@ content:
       - Making games
       - Gaming
       - Reading
-      - Chatting/Socilizing
+      - Chatting/Socializing
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
       Look at this cool image  
