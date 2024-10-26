@@ -59,7 +59,23 @@ content:
         link: https://github.com/Munged-Alkhameesi/ReservationSystem
         # link_text: Project Website
         additional_links:
-          - title:  TBA
+          - title:  Made with C# MVC EF core and SQL
+            icon: fab fa-github
+            url: TBA
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+        
+        description: | # this will include new lines to allow paragraphs
+          A Restaurant reservation system built with c# MVC ef core and SQL as database
+
+      - layout: middle
+        title: Brick breaker game
+        link: https://github.com/Munged-Alkhameesi/ReservationSystem
+        # link_text: Project Website
+        additional_links:
+          - title:  Using Unity engine, C#
             icon: fab fa-github
             url: TBA
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
@@ -68,23 +84,23 @@ content:
         quote: >
           
         description: | # this will include new lines to allow paragraphs
-          A Restaurant reservation system built with c# MVC ef core and SQL as database
+          A game of ball breaking bricks and trying not to make the ball fall by bouncing it on a moving board
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Bachelor's Degree Information Systems - Western Sydney University
-        caption: TBA
-        sub_title: TBA
+        title: Bachelor's Degree  - 
+        caption: Information Systems
+        sub_title: Western Sydney University
         quote: >
-            TBA
+                
         description: Ongoing
 
       - layout: Right
-        title: Diploma Information Technology Advanced Programming - TAFE NSW
-        caption: TBA
-        sub_title: TBA
+        title: Diploma 
+        caption: Information Technology Advanced Programming
+        sub_title: TAFE NSW
         quote: >
             TBA
         description: | # this will include new lines to allow paragraphs
