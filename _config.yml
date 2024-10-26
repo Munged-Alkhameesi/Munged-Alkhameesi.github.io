@@ -8,7 +8,7 @@ version: 2
 name: Munged al-khameesi
 title: Student/Junior Programmer Developer
 email: Munged.alkhameesi@gmail.com
-website: www.github.com/sproogen/resume-theme
+website: 
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -31,7 +31,7 @@ linkedin_username: munged-al-khameesi-839574281
 additional_links:
 - title: itsgoingto.be
   icon: fas fa-globe
-  url: https://www.itsgoingto.be
+  url: 
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
