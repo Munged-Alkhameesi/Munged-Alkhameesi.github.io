@@ -70,9 +70,9 @@ content:
         description: | # this will include new lines to allow paragraphs
           A Restaurant reservation system built with c# MVC ef core and SQL as database
 
-      - layout: middle
+      - layout: top-middle
         title: Brick breaker game
-        link: https://github.com/Munged-Alkhameesi/ReservationSystem
+        link: https://github.com/Munged-Alkhameesi/BlocksGame
         # link_text: Project Website
         additional_links:
           - title:  Using Unity engine, C#
@@ -102,7 +102,7 @@ content:
         caption: Information Technology Advanced Programming
         sub_title: TAFE NSW
         quote: >
-            TBA
+             
         description: | # this will include new lines to allow paragraphs
             A diploma from TAFE Completed already
 
